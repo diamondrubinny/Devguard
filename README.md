@@ -17,12 +17,16 @@ DevGuard is a lightweight background utility designed to prevent accidental data
 ## Installation
 
 ### Option 1: Download Executable
-1.  Navigate to the Releases page.
+1.  Navigate to the [Releases page](https://github.com/diamondrubinny/Devguard/releases).
 2.  Download the latest `DevGuard.exe`.
 3.  Run the application.
 
 ### Option 2: Run from Source
-1.  Clone the repository.
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/diamondrubinny/Devguard.git
+    cd Devguard
+    ```
 2.  Install dependencies:
     ```bash
     pip install -r requirements.txt
@@ -45,4 +49,16 @@ DevGuard is designed with privacy as a priority:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+## 💼 Commercial license & rights acquisition
+
+DevGuard is free and open source under the MIT License. If you are interested in a **commercial agreement** or custom licensing terms, **white-label / exclusive rights**, or **acquiring full rights to the code**, send your proposal to **[d@rubinny.net](mailto:d@rubinny.net)**.
+
+Please include: who you are (company / contact), how you intend to use the code, and your offer.
+
+> 🇮🇱 מעוניינים ברישיון מסחרי, בזכויות בלעדיות או ברכישת הזכויות בקוד? שלחו הצעה ל-**[d@rubinny.net](mailto:d@rubinny.net)** — כולל פרטי קשר, אופן השימוש המתוכנן וההצעה שלכם.
+
+---
+
+<sub>Created by **Diamond Rubinny** · © 2025–2026 Diamond Rubinny · [rubinny.co.il](https://rubinny.co.il)</sub>
