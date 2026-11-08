@@ -6,6 +6,8 @@
 
 DevGuard is a lightweight background utility designed to prevent accidental data leaks and improve developer workflow. It monitors the clipboard for sensitive information and automatically formats raw JSON strings.
 
+<p align="center"><img src="docs/screenshots/demo.webp" width="860" alt="Illustration: copying minified JSON leaves pretty-printed JSON in the clipboard with a JSON Formatted notification; copying an AWS access key shows a Security Alert notification"></p>
+
 ## Key Features
 
 * **Secret Detection:** Monitors clipboard content for AWS Keys, Private Keys, tokens, and email addresses.
